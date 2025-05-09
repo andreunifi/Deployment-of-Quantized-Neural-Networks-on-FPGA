@@ -38,7 +38,7 @@ Benvenuto in questa repository dedicata al progetto di ricerca sul deployment di
 
 ---
 
-|dataset|modello|bit-width|
-|-------|-------|---------|
-|dataset|modello|bit-width|
+|dataset|modello|bit-width|accuracy|bit accumulatore|Latency|FFs|LUTs|BRAMs|DSPs|etc.|
+|-------|-------|---------|--------|----------------|-------|---|----|-----|----|----|
+|dataset|modello|bit-width|accuracy|bit accumulatore|Latency|FFs|LUTs|BRAMs|DSPs|etc.|
 
