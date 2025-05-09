@@ -38,3 +38,7 @@ Benvenuto in questa repository dedicata al progetto di ricerca sul deployment di
 
 ---
 
+|dataset|modello|bit-width|
+|-------|-------|---------|
+|dataset|modello|bit-width|
+
